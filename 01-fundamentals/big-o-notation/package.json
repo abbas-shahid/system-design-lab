@@ -1,0 +1,17 @@
+{
+  "name": "big-o-notation",
+  "version": "1.0.0",
+  "description": "TypeScript examples demonstrating Big O time and space complexity",
+  "scripts": {
+    "dev": "tsx examples/complexity.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "keywords": [],
+  "author": "Shahid Abbas",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  }
+}
