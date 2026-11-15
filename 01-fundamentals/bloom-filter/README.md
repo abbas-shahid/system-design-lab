@@ -86,7 +86,7 @@ bloom-filter/
 └── docs/                    # Learning guides, measurements, and diagrams
 ```
 
-`tests/` is not a separate project directory in the current checkout; tests are under `backend/src/**/*.spec.ts` and `backend/test/`.
+ 
 
 ## Bloom Filter configuration
 
